@@ -136,7 +136,7 @@ export default function Intro() {
           Contact me here
           <BsArrowRight className="opacity-70 group-hover:translate-x-1 transition" />
         </Link> */}
-        <a
+        {/* <a
           href={
             activeLocale == "en" ? "/Joy-fullstack.pdf" : "/前端开发-彭郁洁.pdf"
           }
@@ -160,7 +160,7 @@ export default function Intro() {
           target="_blank"
         >
           <FaGithubSquare />
-        </a>
+        </a> */}
       </motion.div>
     </section>
   )
