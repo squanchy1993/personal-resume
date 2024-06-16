@@ -1,0 +1,24 @@
+{
+    "IntroSection": {
+        "hello_im": "你好，我是",
+        "name": "朱思生",
+        "short_intro": "我享受写代码的过程！",
+        "download_cv": "下载简历"
+    },
+    "SectionName": {
+        "about": "关于我",
+        "experience": "我的经历",
+        "projects": "我的项目",
+        "skills": "我的技能"
+    },
+    "AboutSection": {
+        "desc": "我享受写代码的过程，喜欢那种搭积木的感觉，尤其是在写出优雅的代码时，作为一名web开发工程师，专注于前端、移动端和后端开发。我的技术栈包括Vue3、React、Flutter、NestJS 等技术，同时我也擅长基于 Flutter的混合开发，包括开发 iOS 和 Android 插件以及集成第三方 SDK。",
+        "fontEnd": "前端开发:",
+        "fontEndContent": "vue3和react 是我开发网页的主要框架， 看到自己的应用被别人使用，这让我非常有成就感。",
+        "AppDevelopment": "移动端开发:",
+        "AppDevelopmentContent": "使用 Flutter 进行混合开发，具备开发iOS 和 Android 插件的经验，能够顺利集成各种第三方 SDK。也有过ReactNative和 Ionic的使用经验",
+        "backend": "后端开发:",
+        "backendContent": "主要是用node.js开发。擅长使用 NestJS 开发 RESTful规范的接口。利用Prisma进行数据库链接。也使用过koa2和Sequelize。",
+        "summary": "在工作之外，我热爱户外活动，包括爬山、徒步、骑车和健身。我还喜欢和朋友一起露营，享受大自然的宁静与美好。"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "IntroSection": {
+        "hello_im": "Hi, my name is",
+        "name": "Joy Peng",
+        "short_intro": "I enjoy building things for the web.",
+        "download_cv": "Download CV"
+    },
+    "SectionName": {
+        "about": "About me",
+        "experience": "Experience",
+        "projects": "Projects",
+        "skills": "Skills"
+    },
+    "AboutSection": {
+        "desc": "I enjoy the process of coding, liking the feeling of building blocks, especially when writing elegant code. As a web developer, I focus on front-end, mobile, and back-end development. My tech stack includes Vue3, React, Flutter, NestJS, and other technologies. I am also skilled in hybrid development based on Flutter, including developing iOS and Android plugins and integrating third-party SDKs. ",
+        "fontEnd": "Front-end development:",
+        "fontEndContent": "Vue3 and React are the main frameworks I use for developing webpages. Seeing my applications being used by others gives me a great sense of achievement.",
+        "AppDevelopment": "Application development:",
+        "AppDevelopmentContent": "Experience in using Flutter for hybrid development, capable of developing iOS and Android plugins, and smoothly integrating various third-party SDKs. Also have experience using React Native and Ionic.",
+        "backend": "Backend development:",
+        "backendContent": "Mainly developed using node.js. Proficient in developing RESTful APIs using NestJS. Utilize Prisma for database connections. Also have experience with koa2 and Sequelize.",
+        "summary": "Outside of work, I love outdoor activities, including hiking, trekking, cycling, and working out. I also enjoy camping with friends, and appreciate the tranquility and beauty of nature."
+    }
+}
