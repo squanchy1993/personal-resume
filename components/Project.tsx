@@ -17,7 +17,8 @@ export default function Project({
   desc_zh,
   title_zh,
   tags,
-  imageUrl,
+  imageUrlen,
+  imageUrlzh,
   projectUrl,
   demoUrl,
 }: ProjectProps) {
@@ -48,7 +49,7 @@ export default function Project({
 
             <div className="flex gap-3 text-sm text-gray-500 dark:text-gray-300">
               {" "}
-              <Link
+              {/* <Link
                 href={projectUrl}
                 target="_blank"
                 className="w-full flex items-center gap-1  hover:underline underline-offset-2"
@@ -56,7 +57,7 @@ export default function Project({
                 <span className="break-keep">Code</span>
 
                 <FaGithubSquare className="w-5 h-5" />
-              </Link>
+              </Link> */}
               {demoUrl && (
                 <Link
                   href={demoUrl}
@@ -86,7 +87,7 @@ export default function Project({
         </div>
 
         <Image
-          src={imageUrl}
+          src={activeLocale === "zh" ? imageUrlzh : imageUrlen}
           alt="Project I worked on"
           quality={95}
           className="absolute hidden sm:block top-8 -right-40 w-[28.25rem] rounded-t-lg shadow-2xl
